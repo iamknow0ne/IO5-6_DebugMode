@@ -52,6 +52,7 @@ export function useGameState() {
 
   return {
     state,
+    setState,
     harvestEssence,
     produceDose,
     distributeDose,

@@ -334,7 +334,7 @@ function App() {
         <p className="text-center text-gray-400">Population Dynamics</p>
       </div>
 
-        <DebugMode state={state} setState={setState} />
+      <DebugMode state={state} setState={setState} />
     </div>
   );
 }
